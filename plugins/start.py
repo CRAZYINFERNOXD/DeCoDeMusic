@@ -40,13 +40,13 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Aɴᴅ Pʟᴀʏ Mᴜsɪᴄ Fʀᴇᴇʟ�
             [
                 [
                     InlineKeyboardButton(
-                        "Owner", url="https://t.me/CRAZY_INFERNO_XD")
+                        "Owner", url="https://t.me/rawanbabu")
                   ],[
                     InlineKeyboardButton(
-                       " 𝐒𝐮𝐩𝐩𝐨𝐫𝐭👿", url="https://t.me/CLUB_HOUSE_OP"
+                       " 𝐒𝐮𝐩𝐩𝐨𝐫𝐭👿", url="https://t.me/bestfriendfoverever"
                     ),
                     InlineKeyboardButton(
-                        "𝐔𝐩𝐝𝐚𝐭𝐞𝐬", url="https://t.me/ABOUT_CRAZY"
+                        "𝐔𝐩𝐝𝐚𝐭𝐞𝐬", url="https://t.me/TECHNICALARCHIT"
                     )
                 ],[
                     InlineKeyboardButton(
