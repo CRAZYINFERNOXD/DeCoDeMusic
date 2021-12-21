@@ -257,7 +257,7 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🚨 Support", url="t.me/decodesupport"),
+                    InlineKeyboardButton("🚨 Support", url="https://t.me/Dil_Dosti_Dua"),
                     InlineKeyboardButton(text="🗑 Close", callback_data="cls")
                 ]
             ]
@@ -294,7 +294,7 @@ async def play(_, message: Message):
             keyboard = InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton("🚨 Support", url="t.me/decodesupport"),
+                    InlineKeyboardButton("🚨 Support", url="https://t.me/Dil_Dosti_Dua"),
                     InlineKeyboardButton(text="🗑 Close", callback_data="cls")
                  ]
                 ]
@@ -302,7 +302,7 @@ async def play(_, message: Message):
 
         except Exception as e:
             title = "NaN"
-            thumb_name = "https://telegra.ph/file/a7adee6cf365d74734c5d.png"
+            thumb_name = "https://telegra.ph/file/9568166a3d09d551feca4.jpg"
             duration = "NaN"
             views = "NaN"
             keyboard = InlineKeyboardMarkup(
@@ -320,7 +320,7 @@ async def play(_, message: Message):
     else:
         if len(message.command) < 2:
             return await lel.edit(
-                "🧐 **Song not found! Try searching with the correct title\nExample » /play In The End\n\nChannel : @DeCodeMusicBot**"
+                "🧐 **Song not found! Try searching with the correct title\nExample » /play In The End\n\nGandu ko dm karo : @Soul_Deepak**"
             )
         await lel.edit("🔎 **Finding the song...**")
         query = message.text.split(None, 1)[1]
@@ -356,7 +356,7 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🚨 Support", url="t.me/decodesupport"),
+                    InlineKeyboardButton("🚨 Support", url="https://t.me/Dil_Dosti_Dua"),
                     InlineKeyboardButton(text="🗑 Close", callback_data="cls")
                 ]
             ]
