@@ -257,7 +257,7 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🚨 Support", url="https://t.me/CLUB_HOUSE_OP"),
+                    InlineKeyboardButton("🚨 Support", url="https://t.me/bestfriendfoverever"),
                     InlineKeyboardButton(text="🗑 Close", callback_data="cls")
                 ]
             ]
@@ -294,7 +294,7 @@ async def play(_, message: Message):
             keyboard = InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton("🚨 Support", url="https://t.me/CLUB_HOUSE_OP"),
+                    InlineKeyboardButton("🚨 Support", url="https://t.me/bestfriendfoverever"),
                     InlineKeyboardButton(text="🗑 Close", callback_data="cls")
                  ]
                 ]
@@ -356,7 +356,7 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🚨 Support", url="https://t.me/CLUB_HOUSE_OP"),
+                    InlineKeyboardButton("🚨 Support", url="https://t.me/bestfriendfoverever"),
                     InlineKeyboardButton(text="🗑 Close", callback_data="cls")
                 ]
             ]
