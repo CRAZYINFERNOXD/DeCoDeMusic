@@ -40,10 +40,10 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Aɴᴅ Pʟᴀʏ Mᴜsɪᴄ Fʀᴇᴇʟ�
             [
                 [
                     InlineKeyboardButton(
-                        "Gandu Owner", url="https://t.me/Soul_Deepak")
+                        "Owner", url="https://t.me/CRAZY_INFERNO_XD")
                   ],[
                     InlineKeyboardButton(
-                       " 𝐒𝐮𝐩𝐩𝐨𝐫𝐭👿", url="https://t.me/Dil_Dosti_Dua"
+                       " 𝐒𝐮𝐩𝐩𝐨𝐫𝐭👿", url="https://t.me/CLUB_HOUSE_OP"
                     ),
                     InlineKeyboardButton(
                         "𝐔𝐩𝐝𝐚𝐭𝐞𝐬", url="https://t.me/ABOUT_CRAZY"
